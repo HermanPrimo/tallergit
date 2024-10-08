@@ -1,6 +1,1 @@
 print("Hola Mundos")
-print("Hola Mundo 1")
-print("Hola Mundos 2")
-print("Hola Mundos 2")
-print("Hola Mundos 4")
-print("Hola Mundos 5")
